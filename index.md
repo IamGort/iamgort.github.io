@@ -1,1 +1,1 @@
-## I am Gort.
+I am Gort.
